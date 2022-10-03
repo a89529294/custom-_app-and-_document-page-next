@@ -4,12 +4,12 @@ type theme = "light" | "dark";
 
 const themes = {
   dark: {
-    background: "black",
-    color: "white",
+    // background: "black",
+    // color: "white",
   },
   light: {
-    background: "white",
-    color: "black",
+    // background: "white",
+    // color: "black",
   },
 };
 
